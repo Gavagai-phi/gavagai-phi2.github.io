@@ -9,6 +9,11 @@ h2 {
   border-radius: 15px;
 }
 
+h6 {
+  background-color: lightgrey	;
+  border-radius: 15px;
+}
+
 .testoblu{color: blue;}
 
 hr.rounded {
