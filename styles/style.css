@@ -43,6 +43,6 @@ hr.rounded {
 
 @media {
   .navbar-collapse
-    { backround-color: red;
+    { background-color: red;
     }
 }
