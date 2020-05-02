@@ -41,7 +41,7 @@ hr.rounded {
 	padding-left: 10px;
 }
 
-@media {
+@media (max-width: 200px){
   .navbar-collapse
     { background-color:  #DEB887;
     }
