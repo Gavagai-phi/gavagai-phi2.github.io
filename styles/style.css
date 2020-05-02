@@ -41,4 +41,7 @@ hr.rounded {
 	padding-left: 10px;
 }
 
-.zfooter: {display: none;}
+.zfooter: {
+	display: none;
+	visibility: hidden;
+}
